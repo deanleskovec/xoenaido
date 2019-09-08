@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://feexophes.twinelab.net/sitemap.xml
